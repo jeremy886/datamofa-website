@@ -1,0 +1,4 @@
+[project]
+name = Data Mofa
+[servers.ghpages-https]
+target = ghpages://jeremy886/datamofa-website?cname=www.datamofa.club
